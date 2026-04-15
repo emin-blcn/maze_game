@@ -1,0 +1,8 @@
+.godot/
+.vscode/
+
+*.import
+*.uid
+
+.editorconfig
+export_presets.cfg
