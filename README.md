@@ -29,7 +29,7 @@ Each run is different, which makes the game endlessly replayable.
 - `sounds.gd` → Sound variables
 - `global.gd` → Shared game data and statistics
 
-## Notes
+## Note
 I wrote most of the code myself.  
 Since I’m not very strong in mathematics, I used AI assistance in a few small parts and for a large portion of the maze generation algorithm.
 
