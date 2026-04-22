@@ -23,11 +23,13 @@ Each run is different, which makes the game endlessly replayable.
 - **Language:** GDScript
 
 ## Project Structure
-- `map.gd` → Maze generation and map logic
-- `character.gd` → Player movement and animation
+- `game.gd` → Main game flow and level transitions
+- `map.gd` → Map scene setup and maze placement
+- `maze.gd` → Maze generation logic (`Maze` class)
+- `character.gd` → Player movement
 - `gui.gd` → User interface logic
-- `sounds.gd` → Sound variables
 - `global.gd` → Shared game data and statistics
+- `sounds.gd` → References to sound effect nodes for easier access
 
 ## Note
 I wrote most of the code myself.  
