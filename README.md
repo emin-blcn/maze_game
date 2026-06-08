@@ -37,7 +37,7 @@ Since I’m not very strong in mathematics, I used AI assistance in a few small 
 
 ## Play
 You can play the game on itch.io:  
-https://emin-1.itch.io/maze-game
+https://emin-blcn.itch.io/maze-game
 
 ## Assets
 
